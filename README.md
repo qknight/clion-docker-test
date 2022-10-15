@@ -31,3 +31,7 @@ Using CLion 2022.2.4 with Docker Desktop 4.12.0 (85629)
 # Dockerfile
 
     docker  build -t clion/alpine:1.0 -f .\Dockerfile .
+
+# License
+
+this is public domain, use for whaterver you want
